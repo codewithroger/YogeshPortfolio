@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/YogeshPortfolio/static/css/main.bd517442.css",
+    "main.js": "/YogeshPortfolio/static/js/main.6e5e330a.js",
+    "static/js/453.ead7dbda.chunk.js": "/YogeshPortfolio/static/js/453.ead7dbda.chunk.js",
+    "static/media/fa-solid-900.ttf": "/YogeshPortfolio/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/YogeshPortfolio/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/Yogesh_Gurunath_Hitnalli-removebg-preview.png": "/YogeshPortfolio/static/media/Yogesh_Gurunath_Hitnalli-removebg-preview.3b95623bea99c3ffae1d.png",
+    "static/media/fa-solid-900.woff2": "/YogeshPortfolio/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/YogeshPortfolio/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/YogeshPortfolio/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/YogeshPortfolio/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/YogeshPortfolio/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/YogeshPortfolio/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "static/media/logo.svg": "/YogeshPortfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/YogeshPortfolio/index.html",
+    "main.bd517442.css.map": "/YogeshPortfolio/static/css/main.bd517442.css.map",
+    "main.6e5e330a.js.map": "/YogeshPortfolio/static/js/main.6e5e330a.js.map",
+    "453.ead7dbda.chunk.js.map": "/YogeshPortfolio/static/js/453.ead7dbda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd517442.css",
+    "static/js/main.6e5e330a.js"
+  ]
+}
