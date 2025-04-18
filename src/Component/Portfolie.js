@@ -59,7 +59,7 @@ const Portfolie = () => {
       {/* Navbar */}
       <nav className="bg-white shadow-md w-full px-8 sticky top-0 z-50">
         <div className="max-w-7xl mx-auto h-20 flex items-center justify-between">
-          <div className="text-2xl font-bold text-indigo-600">Yogesh.dev</div>
+          <div className="text-2xl font-bold text-indigo-600">Yogesh Hitnalli</div>
           <ul className="flex gap-6 text-gray-600 font-medium">
             <li className="hover:text-indigo-600"><a href="#about">Profile</a></li>
             <li className="hover:text-indigo-600"><a href="#education">Education</a></li>
